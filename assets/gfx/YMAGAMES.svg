@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="720"
+   height="480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="YMAGAMES.png">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71"
+     inkscape:cx="404.08158"
+     inkscape:cy="226.23219"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1125"
+     inkscape:window-height="767"
+     inkscape:window-x="1113"
+     inkscape:window-y="378"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-572.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:186.36170958999998000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe Script;-inkscape-font-specification:Segoe Script Bold"
+       x="201.10837"
+       y="681.6214"
+       id="text2985"
+       sodipodi:linespacing="125%"
+       transform="scale(0.81628995,1.2250549)"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="201.10837"
+         y="681.6214">YMA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:121.35633087000001000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Vijaya;-inkscape-font-specification:Vijaya"
+       x="307.69186"
+       y="738.21313"
+       id="text2989"
+       sodipodi:linespacing="125%"
+       transform="scale(0.7774921,1.2861867)"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="307.69186"
+         y="738.21313">GAMES</tspan></text>
+  </g>
+</svg>
